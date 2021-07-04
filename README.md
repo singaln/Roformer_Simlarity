@@ -8,5 +8,6 @@ python main --do_train
 ```
 
 ## 参考
-苏剑林：https://kexue.fm/archives/8397 \\
+苏剑林：https://kexue.fm/archives/8397 
+
 论文：https://arxiv.org/abs/2104.09864
